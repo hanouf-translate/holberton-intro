@@ -1,5 +1,5 @@
 # Collaboration
 
-Effective teamwork depends on continuous feedback and shared understanding.
+Collaboration requires adaptability, trust, and continuous alignment among team members.
 
 This document describes collaboration practices used in the project.
